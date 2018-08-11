@@ -1,58 +1,52 @@
 Alpha Code,Numeric Code,Description
-&cent;,&#162;,Cent
-&pound;,&#163;,Pound
-&curren;,&#164;,Currency
-&yen;,&#165;,Yen
-&euro;,&#8364;,Euro
-&deg;,&#176;,Degree
-&prime;,&#8242;,Minutes (Degrees)
-&Prime;,&#8243;,Seconds (Degrees)
-&micro;,&#181;,Micro
-&permil;,&#8240;,Per mille
-&iexcl;,&#161;,Inverted exclamation mark
-&brvbar;,&#166;,Broken vertical bar
-&sect;,&#167;,Section
-&iquest;,&#191;,Inverted question mark
-&dagger;,&#8224;,Dagger
-&Dagger;,&#8225;,Double dagger
-&trade;,&#8482;,Trademark
-&reg;,&#174;,Registered trademark
-&para;,&#182;,Paragraph
-&OElig;,&#338;,Uppercase ligature OE
-&oelig;,&#339;,Lowercase ligature OE
-&Scaron;,&#352;,Uppercase S with caron
-&scaron;,&#353;,Lowercase S with caron
-&Yuml;,&#376;,Capital Y with diaeres
-&fnof;,&#402;,Lowercase with hook
-&circ;,&#710;,Circumflex accent
-&ndash;,&#8211;,En dash
-&mdash;,&#8212;,Em dash
-&lsquo;,&#8216;,Left single quotation mark
-&rsquo;,&#8217;,Right single quotation mark
-&sbquo;,&#8218;,Single low-9 quotation mark
-&ldquo;,&#8220;,Left double quotation mark
-&rdquo;,&#8221;,Right double quotation mark
-&bdquo;,&#8222;,Double low-9 quotation mark
-&hellip;,&#8230;,Horizontal ellipsis
-&oline;,&#8254;,Overline
-&larr;,&#8592;,Left arrow
-&uarr;,&#8593;,Up arrow
-&rarr;,&#8594;,Right arrow
-&darr;,&#8595;,Down arrow
-&harr;,&#8596;,Left right arrow
-&crarr;,&#8629;,Carriage return arrow
-&loz;,&#9674;,Lozenge
-&spades;,&#9824;,Spade
-&clubs;,&#9827;,Club
-&hearts;,&#9829;,Heart
-&diams;,&#9830;,Diamond
-&bull;,&#8226;,Bullet
-&shy;,&#173;,Soft hyphen
-&macr;,&#175;,Spacing macron
-&acute;,&#180;,Spacing acute
-&cedil;,&#184;,Spacing cedilla
-&uml;,&#168;,Spacing diaeresis
-&lsaquo;,&#8249;,Single left angle quotation
-&rsaquo;,&#8250;,Single right angle quotation
-&laquo;,&#171;,Opening/Left angle quotation mark
-&raquo;,&#187;,Closing/Right angle quotation mark
+&euro;,&#8364;,SYM_EURO
+&pound;,&#163;,YM_POUND
+&yen;,&#165;,SYM_YEN
+&cent;,&#162;,SYM_CENT
+&curren;,&#164;,SYM_CURREN
+&deg;,&#176;,SYM_DEG
+&prime;,&#8242;,SYM_MIN_D
+&Prime;,&#8243;,SYM_SEC_D
+&micro;,&#181;,SYM_MICRO
+&permil;,&#8240;,SYM_PERMIL
+&iexcl;,&#161;,SYM_IEXCL
+&brvbar;,&#166;,SYM_BRVBAR
+&sect;,&#167;,SYM_SECT
+&iquest;,&#191;,SYM_IQUEST
+&dagger;,&#8224;,SYM_DAGGER
+&Dagger;,&#8225;,SYM_DDAGGER
+&trade;,&#8482;,SYM_TRADE
+&reg;,&#174;,SYM_REG
+&para;,&#182;,SYM_PARA
+&fnof;,&#402;,SYM_L_FNOF
+&circ;,&#710;,SYM_CIRC
+&ndash;,&#8211;,SYM_NDASH
+&mdash;,&#8212;,SYM_MDASH
+&lsaquo;,&#8249;,YM_LSAQUO
+&rsaquo;,&#8250;,SYM_RSAQUO
+&laquo;,&#171;,SYM_LAQUO
+&raquo;,&#187;,SYM_RAQUO
+&lsquo;,&#8216;,SYM_LSQUO
+&rsquo;,&#8217;,SYM_RSQUO
+&sbquo;,&#8218;,SYM_SBQUO
+&ldquo;,&#8220;,SYM_LDQUO
+&rdquo;,&#8221;,SYM_RDQUO
+&bdquo;,&#8222;,SYM_BDQUO
+&hellip;,&#8230;,SYM_HELLIP
+&oline;,&#8254;,SYM_OLINE
+&macr;,&#175;,SYM_MACR
+&acute;,&#180;,SYM_ACUTE
+&cedil;,&#184;,SYM_CEDIL
+&uml;,&#168;,SYM_UML
+&larr;,&#8592;,SYM_LARR
+&uarr;,&#8593;,SYM_UARR
+&rarr;,&#8594;,SYM_RARR
+&darr;,&#8595;,SYM_DARR
+&harr;,&#8596;,SYM_HARR
+&crarr;,&#8629;,SYM_CRARR
+&loz;,&#9674;,SYM_LOZ
+&spades;,&#9824;,SYM_SPADES
+&clubs;,&#9827;,SYM_CLUBS
+&hearts;,&#9829;,SYM_HEARTS
+&diams;,&#9830;,SYM_DIAMS
+&bull;,&#8226;,SYM_BULL

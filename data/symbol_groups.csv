@@ -1,5 +1,5 @@
-Tab,Name,Label,File
-1,ISO-8859-1 Characters,&agrave;&acirc;&aring;,iso_8859_1_characters.csv
-2,Math Symbols,&radic;&sum;&infin;,math_symbols.csv
-3,Miscellaneous Symbols,&euro;&deg;&para;,misc_symbols.csv
-4,Greek Letters,&alpha;&beta;&gamma;,greek_letters.csv
+Identifier,Name,Label,File
+accent-chars,SYM_ACCENTED_CHARS,&agrave;&acirc;&aring;,accented_characters.csv
+math-symbols,SYM_MATH_SYMBOLS,&radic;&sum;&infin;,math_symbols.csv
+misc-symbols,SYM_MISC_SYMBOLS,&euro;&deg;&para;,misc_symbols.csv
+greek-chars,SYM_GREEK_LETTERS,&alpha;&beta;&gamma;,greek_letters.csv

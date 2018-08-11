@@ -1,9 +1,9 @@
 {
     "name": "v12mike/symbols",
     "type": "phpbb-extension",
-    "description": "This extension allows users to embed symbols (HTML Entities) in posts.",
+    "description": "This extension allows users to embed symbols (HTML Entities) in posts and PMs.",
     "homepage": "https://github.com/v12mike/symbols",
-    "version": "1.0.0-a1",
+    "version": "1.0.1-B1",
     "keywords": [
         "phpbb",
         "extension",

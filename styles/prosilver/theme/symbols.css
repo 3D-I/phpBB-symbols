@@ -7,20 +7,33 @@
 }
 
 #symbols-button {
-	margin: 0;
+	margin: 2px;
 	padding: 0;
-	min-width: 20px;
+	min-width: 22px;
 	height: 20px;
 	font-size: 14px;
-    text-align: center;
+	text-align: center;
 }
 
 #tabs ul li a.symbol-tab{
-    padding: 3px;
-    padding-bottom: 0;
-    height: 25px;
+	padding: 4px 2px 0 2px;
+	padding-bottom: 0;
+	height: 25px;
 }
 
 #smiley-box > #tabs{
-    margin: 0;
+	margin: 0;
+}
+
+@media only screen and (min-width: 700px) and (max-width: 1200px) {
+	/* Main message box */
+	.message-box {
+		width: 74%;
+	}
+
+	/* Emoticons panel */
+	.smiley-box {
+		width: 25%;
+		float: right;
+	}
 }

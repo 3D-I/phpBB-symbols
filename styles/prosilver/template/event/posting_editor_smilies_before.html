@@ -1,15 +1,14 @@
-
 <!-- IF SYMBOLS_TABS -->
 	<div id="tabs" class="tabs sub-panels" data-show-panel="smilies-panel" role="tablist">
 		<ul>
 			<li id="smilies-panel-tab" class="tab activetab">
 				<a class="symbol-tab" href="#tabs" data-subpanel="smilies-panel" role="tab" aria-controls="smilies-panel">
-					<img src="./images/smilies/icon_e_smile.gif" width="15" height="17" alt=":)" title="Smile" />
+					<img src="./images/smilies/icon_e_smile.gif" width="15" height="17" alt=":)" title={L_SYM_SMILIES} />
 				</a>
 			</li>
 			<!-- BEGIN symbols_box -->
-			<li id="{symbols_box.SYMBOLS_TAB_ID}" class="tab">
-				<a class="symbol-tab" href="#tabs" data-subpanel="{symbols_box.SYMBOLS_TAB_PANEL}" role="tab" aria-controls="{symbols_box.SYMBOLS_TAB_PANEL}">
+			<li id="{symbols_box.SYMBOLS_TAB_ID}-panel-tab" class="tab">
+				<a class="symbol-tab" href="#javascript:void(0);" data-subpanel="{symbols_box.SYMBOLS_TAB_ID}-panel" role="tab" aria-controls="{symbols_box.SYMBOLS_TAB_ID}-panel" tab-link= "{ROOT_PATH}app.php/symbols/{symbols_box.SYMBOLS_TAB_ID}" title="{symbols_box.SYMBOLS_TAB_NAME}">
 					<span>{symbols_box.SYMBOLS_TAB_LABEL}</span>
 				</a>
 			</li>
@@ -18,14 +17,7 @@
 	</div>
 
 	<!-- BEGIN symbols_box -->
-	<div class="panel bg3" id="{symbols_box.SYMBOLS_TAB_PANEL}">
-		<div class="inner">
-			<strong>{symbols_box.SYMBOLS_TAB_NAME}</strong><br>
-			<!-- BEGIN symbols_table -->
-			<a href="#" onclick="insert_text('{symbols_box.symbols_table.SYMBOL_CODE}', false); return false;" id= "symbols-button" class="button2" title="{symbols_box.symbols_table.SYMBOL_DESCRIPTION}">{symbols_box.symbols_table.SYMBOL_CODE}</a>
-			<!-- END symbols_table --> 
-		</div>
-	</div>
+	<div class="panel bg3" id="{symbols_box.SYMBOLS_TAB_ID}-panel"></div>
 	<!-- END symbols_box -->
 
 	<div class="panel bg3" id="smilies-panel">

@@ -1,8 +1,15 @@
 services:
+    v12mike.symbols.controller:
+        class: v12mike\symbols\controller\symbol_tabs
+        arguments:
+            - '@controller.helper'
+            - '@template'
+            - '@user'
     v12mike.symbols.listener:
         class: v12mike\symbols\event\listener
         arguments:
             - '@template'
+            - '@user'
             - ext/v12mike/symbols/
         tags:
             - { name: event.listener }

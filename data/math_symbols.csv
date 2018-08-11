@@ -1,56 +1,56 @@
 Alpha Code,Numeric Code,Description
-&minus;,&#8722;,Minus
-&not;,&#172;,Negation
-&times;,&#215;,Multiplication
-&divide;,&#247;,Divide
-&lowast;,&#8727;,Asterisk (Lowast)
-&radic;,&#8730;,Square root
-&forall;,&#8704;,For all
-&part;,&#8706;,Part
-&exist;,&#8707;,Exist
-&empty;,&#8709;,Empty
-&nabla;,&#8711;,Nabla
-&isin;,&#8712;,Is in
-&notin;,&#8713;,Not in
-&ni;,&#8715;,Ni
-&prod;,&#8719;,Product
-&sum;,&#8721;,Sum
-&plusmn;,&#177;,Plus or minus
-&prop;,&#8733;,Proportional to
-&infin;,&#8734;,Infinity
-&ang;,&#8736;,Angle
-&and;,&#8743;,And
-&or;,&#8744;,Or
-&cap;,&#8745;,Cap
-&cup;,&#8746;,Cup
-&int;,&#8747;,Integral
-&there4;,&#8756;,Therefore
-&tilde;,&#732;,Tilde
-&sim;,&#8764;,Similar to
-&cong;,&#8773;,Congurent to
-&asymp;,&#8776;,Almost equal
-&ne;,&#8800;,Not equal
-&equiv;,&#8801;,Equivalent
-&le;,&#8804;,Less or equal
-&ge;,&#8805;,Greater or equal
-&sub;,&#8834;,Subset of
-&sup;,&#8835;,Superset of
-&nsub;,&#8836;,Not subset of
-&sube;,&#8838;,Subset or equal
-&supe;,&#8839;,Superset or equal
-&oplus;,&#8853;,Circled plus
-&otimes;,&#8855;,Circled times
-&perp;,&#8869;,Perpendicular
-&sdot;,&#8901;,Dot operator
-&sup1;,&#185;,Superscript 1
-&sup2;,&#178;,Superscript 2
-&sup3;,&#179;,Superscript 3
-&frac14;,&#188;,Fraction 1/4
-&frac12;,&#189;,Fraction 1/2
-&frac34;,&#190;,Fraction 3/4
-&ordm;,&#186;,Masculine ordinal indicator
-&ordf;,&#170;,Feminine ordinal indicator
-&lceil;,&#8968;,Left ceiling
-&rceil;,&#8969;,Right ceiling
-&lfloor;,&#8970;,Left floor
-&rfloor;,&#8971;,Right floor
+&minus;,&#8722;,SYM_MINUS
+&times;,&#215;,SYM_TIMES
+&divide;,&#247;,SYM_DIVIDE
+&sum;,&#8721;,SYM_SUM'
+&sdot;,&#8901;,SYM_DOT
+&and;,&#8743;,SYM_AND
+&or;,&#8744;,SYM_OR     
+&not;,&#172;,SYM_NOT
+&lowast;,&#8727;,SYM_LOWAST
+&radic;,&#8730;,SYM_RADIC
+&forall;,&#8704;,SYM_FORALL
+&part;,&#8706;,SYM_PART'
+&exist;,&#8707;,SYM_EXIST
+&empty;,&#8709;,SYM_EMPTY
+&nabla;,&#8711;,SYM_NABLA
+&isin;,&#8712;,SYM_ISIN
+&notin;,&#8713;,SYM_NOTIN
+&ni;,&#8715;,SYM_NI
+&prod;,&#8719;,SYM_PROD
+&plusmn;,&#177;,SYM_PLUSMN
+&prop;,&#8733;,SYM_PROP
+&infin;,&#8734;,SYM_INFIN
+&ang;,&#8736;,SYM_ANG
+&cap;,&#8745;,SYM_CAP
+&cup;,&#8746;,SYM_CUP
+&int;,&#8747;,SYM_INT
+&there4;,&#8756;,SYM_THERE4
+&tilde;,&#732;,SYM_TILDE
+&sim;,&#8764;,SYM_SIM
+&cong;,&#8773;,SYM_CONG
+&asymp;,&#8776;,SYM_ASYMP
+&ne;,&#8800;,SYM_NE
+&equiv;,&#8801;,SYM_EQUIV
+&le;,&#8804;,SYM_LE
+&ge;,&#8805;,SYM_GE
+&sub;,&#8834;,SYM_SUB
+&sup;,&#8835;,SYM_SUP
+&nsub;,&#8836;,SYM_NSUB
+&sube;,&#8838;,SYM_SUBE
+&supe;,&#8839;,SYM_SUPE
+&oplus;,&#8853;,SYM_OPLUS
+&otimes;,&#8855;,SYM_OTIMES
+&perp;,&#8869;,SYM_PERP
+&sup1;,&#185;,SYM_SUP1
+&sup2;,&#178;,SYM_SUP2
+&sup3;,&#179;,SYM_SUP3
+&frac14;,&#188;,SYM_FRAC14
+&frac12;,&#189;,SYM_FRAC12
+&frac34;,&#190;,SYM_FRAC34
+&ordm;,&#186;,SYM_ORDM
+&ordf;,&#170;,SYM_ORDF
+&lceil;,&#8968;,SYM_LCEIL
+&rceil;,&#8969;,SYM_RCEIL
+&lfloor;,&#8970;,SYM_LFLOOR
+&rfloor;,&#8971;,SYM_RFLOOR

@@ -1,0 +1,3 @@
+v12mike_symbols_route:
+        path: /symbols/{tab_id}
+        defaults: { _controller: v12mike.symbols.controller:handle }
